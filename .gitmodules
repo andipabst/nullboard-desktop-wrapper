@@ -1,0 +1,3 @@
+[submodule "nullboard"]
+	path = nullboard
+	url = https://github.com/apankrat/nullboard.git
